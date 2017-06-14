@@ -1,0 +1,43 @@
+.wrapper{
+	background-image: url('../images1/coworking.jpg');
+	height: 450px;
+	background-size: cover;
+	color: #000000;
+}
+
+.lead{
+	background-color:rgba(255,255,255,0.5);
+	width: 500px;
+	text-align: center;
+}
+
+.lead h2 p{
+	
+	padding: 0.2em;
+	font-size: 18px;
+	font-weight: 300;
+	letter-spacing: 2px;
+	margin-bottom: 2em;
+	
+}
+
+
+.btn-primary{
+	background-color: #FF55C2;
+	border-color:#FF55C2;
+	color: #000000;
+}
+
+
+#footer{
+	text-align: left;
+	margin: 30px;
+	color: #ffffff;
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+table{
+	border-width: 2px;
+}

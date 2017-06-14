@@ -1,0 +1,68 @@
+body{
+	width: 100%;
+}
+
+#header {
+	background-color: #333333;
+	height: 650px;
+	color: white;
+	background-size: cover;
+	font-size: 15px;
+}
+
+.alone{
+	background-color: #333333;
+	background-size: cover;
+	height: 200px;
+	width: 1350px;
+	padding-top: 0px;
+}
+
+main{
+	padding-top: 20em;
+}
+
+.form .col-xs-4 input{
+text-align: center;
+}
+
+#header a{
+	text-decoration: none;
+	color: white;
+}
+
+.btn-danger{
+	color: #fff;
+  background-color: rgba(255,255,255,0.2);
+  border-color: green;
+}
+
+.btn-danger:hover {
+  background-color: green;
+  border-color: green;
+}
+
+.startup i {
+   color: #000000;
+   width: 50px;
+}
+
+.btn-info {
+  color: blue;
+  border-color: blue;
+  background-color: rgba(255,255,255,0.5);
+
+}
+
+hr {
+	display: block;
+	clear: both;
+	height: 0;
+	margin: 40px 0 80px;
+	padding: 0;
+	border: 0;
+	font-family: arial;
+	text-align: center;
+	font-size: 60px;
+	line-height: 1;
+}

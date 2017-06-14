@@ -1,0 +1,35 @@
+
+.navbar {
+	background-color: #000000;
+}
+
+#logo{
+	color: #FF55C2;
+	font-size: 30px;
+}
+
+ul li a{
+	color: #ffffff;
+}
+
+ul li a:hover{
+	color: #FF55C2;
+}
+
+#p{
+	background-color: #C6C6C6;
+}
+
+nav div p{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 15px;
+	color: #000000;
+
+}
+
+#nothing{
+	background-color: #FF55C2;
+	border-image: 2px;
+}
+
